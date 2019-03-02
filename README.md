@@ -1,5 +1,5 @@
 # NextJTag-Loader
-Windows GUI for the NextJTAG v2.xx cmd line utility
+Windows GUI for the NextJTAG v1.xx & v2.xx cmd line utility
 
 You must have NextJTag V2 to use the voltage setting function
 
